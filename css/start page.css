@@ -1,0 +1,22 @@
+
+
+
+
+#img1{
+    padding:100px 0px 10px;
+    text-align: center;
+}
+
+#text1{
+    text-align: center;
+    padding: 10px;
+}
+
+#text1:hover{
+    color: lime;
+    font-size: x-large;
+}
+
+#text1:active{
+    color: darksalmon;
+ }
