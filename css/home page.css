@@ -101,4 +101,15 @@
 
 #part5_logo a{
     padding:5px 10px;
+    position: relative;
+    top: 7px;
+    left:10px;
 }
+
+#part51{
+    display:inline-block;
+    position: relative;
+    top:5px;
+    left:380px;
+}
+
