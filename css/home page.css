@@ -2,6 +2,11 @@
     margin:0px;
     padding:0px;
 }
+#back{
+    position:fixed;
+    top:612px;
+    left:1040px;
+}
 
 #container{
     margin:auto;
@@ -31,7 +36,7 @@
 }
 
 #part4{
-    height: 500px;
+    height: 665px;
     width:700px;
     background-color: pink;
 }
@@ -50,6 +55,9 @@
     border:1px;
     border-color: mediumpurple;
     text-align: center;
+    position:relative;
+    top:7px;
+
 }
 
 #part21{
@@ -91,7 +99,8 @@
 
 #part41,
 #part42,
-#part43{
+#part43,
+#part44{
     height: 150px;
     width:680px;
     background-color: hotpink;
